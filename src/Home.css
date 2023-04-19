@@ -1,0 +1,10 @@
+.home {
+    background-color: pink;
+    height: 100vh;
+}
+.home-text{
+    display: flex;
+    justify-content: start;
+    padding-left: 3rem;
+    align-items: center;
+}

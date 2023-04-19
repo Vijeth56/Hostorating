@@ -1,0 +1,10 @@
+#middle-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+.md-text {
+    margin: 0 3rem;
+    padding: 2rem 0;
+}
