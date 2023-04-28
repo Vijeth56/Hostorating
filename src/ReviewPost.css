@@ -1,0 +1,7 @@
+.reviewBody {
+    display: flex;
+}
+.name {
+    justify-content: flex-start;
+    display: block;
+}

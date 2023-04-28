@@ -1,0 +1,21 @@
+
+.college-image {
+    display: flex;
+    align-items: flex-end;
+    justify-content: start;
+    padding-left: 1rem;
+    height: 60vh;
+}
+
+
+.about-college{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    background-color: antiquewhite;
+}
+
+.info-college {
+    display: flex;
+    justify-content: center;
+}

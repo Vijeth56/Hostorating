@@ -5,6 +5,7 @@ import ContactUs from './ContactUs';
 import Footer from './Footer';
 import Home from './Home.js';
 import MiddleText from './MiddleText';
+import CollegeBMS from './CollegeBMS.js';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <CollegeList />
       <ContactUs />
       <Footer />
+      <CollegeBMS />
     </div>
   );
 }
